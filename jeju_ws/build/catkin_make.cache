@@ -1,0 +1,2 @@
+m_car_new:opencv_line_detection
+-DCATKIN_DEVEL_PREFIX=/home/amap/jeju_ws/devel -DCMAKE_INSTALL_PREFIX=/home/amap/jeju_ws/install -G Unix Makefiles
