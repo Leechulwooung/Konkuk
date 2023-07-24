@@ -1,0 +1,8 @@
+prefix=/home/cwl1223/kulla_my_ws/install
+
+Name: my_call
+Description: Description of my_call
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs

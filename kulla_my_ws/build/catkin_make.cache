@@ -1,0 +1,2 @@
+my_call:my_waypoint:my_website
+-DCATKIN_DEVEL_PREFIX=/home/cwl1223/kulla_my_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cwl1223/kulla_my_ws/install -G Unix Makefiles

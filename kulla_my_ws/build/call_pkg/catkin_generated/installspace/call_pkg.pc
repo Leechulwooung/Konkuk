@@ -1,0 +1,8 @@
+prefix=/home/cwl1223/kulla_my_ws/install
+
+Name: call_pkg
+Description: Description of call_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

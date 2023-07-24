@@ -1,0 +1,8 @@
+prefix=/home/cwl1223/kulla_my_ws/devel
+
+Name: my_website
+Description: Description of my_website
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs roscpp rospy std_msgs
