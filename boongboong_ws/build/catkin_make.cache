@@ -1,0 +1,2 @@
+week1_pkg:week2_pkg:week4_pkg:week5_pkg
+-DCATKIN_DEVEL_PREFIX=/home/cwl1223/boongboong_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cwl1223/boongboong_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/cwl1223/boongboong_ws/install
+
+Name: week1_pkg
+Description: Description of week1_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs

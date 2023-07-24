@@ -1,0 +1,8 @@
+prefix=/home/cwl1223/boongboong_ws/devel
+
+Name: week4_pkg
+Description: Description of week4_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
